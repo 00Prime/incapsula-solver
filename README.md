@@ -1,5 +1,7 @@
 # JSDOM-INCAP
 
+**⚠️ OUTDATED VERSION**: This is a very outdated version from 2023. This code is no longer maintained and many dependencies may have security vulnerabilities.
+
 **⚠️ Showcase Only**: This project is for educational and demonstrative purposes only. Use responsibly and in compliance with all applicable laws and terms of service.
 
 ## Overview
@@ -92,6 +94,7 @@ The author of this project assume no liability for misuse, damage, or legal cons
 
 ---
 
-**Last Updated**: November 2025 - Outdated
+**Originally Created**: 2023
+**Status**: Very outdated - No longer maintained
 
 For educational and demonstration purposes only.
